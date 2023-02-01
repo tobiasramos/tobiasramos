@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do Tobias Ramos
-# Aqui você vai encontrar as aplicações que faço, junto com as tecnologias que utilizado. 
+# Bem-vindo(a) ao perfil do Tobias Ramos
+## Aqui você vai encontrar as aplicações que faço, junto com as tecnologias que utilizado. 
 
 <div>
   <a href="https://github.com/tobiasramos">
