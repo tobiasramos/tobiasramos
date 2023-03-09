@@ -1,11 +1,13 @@
 # Bem-vindo(a) ao perfil do Tobias Ramos
 ## Aqui você vai encontrar as aplicações que faço, junto com as tecnologias que utilizado. 
-
+<head>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</head>
 <div>
   <a href="https://github.com/tobiasramos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tobiasramos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasramos&layout=compact&langs_count=6&theme=tokyonight"/>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">        
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
